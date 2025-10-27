@@ -1,2 +1,2 @@
 # sdd-templates
-Spec-Driven Templates that are useful for AI Apps Developers
+This repository is for sharing GitHub Copilot agent templates (chatmodes, prompts, templates, etc.) that are useful during AI Apps development.
