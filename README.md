@@ -1,5 +1,7 @@
-# sdd-templates
-Spec-Driven Templates that are useful for AI Apps Developers
+# Spec-Driven Templates for AI Apps Developers
+
+Spec-driven development grounds AI coding agents in living specifications, keeping their output aligned with intent and cutting costly rework.
+This repo bundles Spec Kit prompts and templates so GitHub Copilot workflows stay structured from research through implementation.
 
 ## Usage
 
