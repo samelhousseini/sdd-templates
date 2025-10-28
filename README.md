@@ -6,12 +6,18 @@ This repo bundles Spec Kit prompts and templates so GitHub Copilot workflows sta
 ## Usage
 
 ### Research Phase
-Start with the `azure-docs-research` chat mode agent:
+Start with selecting the `azure-docs-research` agent mode.
+
+![Agent Mode](./images/agent.png)
+
 
 **Step 1: Generate Research Plan**
 ```
 /azure-docs-research-plan i want to create an agentic application with the new Microsoft Agent Framework library
 ```
+
+![Agent Mode](./images/plan.png)
+
 
 **Step 2: Execute Research Collection**
 ```
@@ -22,6 +28,8 @@ Start with the `azure-docs-research` chat mode agent:
 **Output:** Research artifacts saved to `.github/scratchpad/`:
 - `research-plan-[TIMESTAMP].md`
 - `research-collection-[TIMESTAMP].md`
+
+![Agent Mode](./images/collect.png)
 
 ### Implementation Phase
 **Step 3: Generate Code with Research Context**
@@ -36,6 +44,11 @@ Using the attached research, create an agentic application with the new Microsof
 ```
 
 GitHub Copilot will use the collected documentation, code snippets, and configurations to generate production-ready code.
+
+![Agent Mode](./images/implement.png)
+
+</br>
+</br>
 
 ## Examples
 
