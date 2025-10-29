@@ -4,11 +4,6 @@
 This repository contains spec-driven templates and research frameworks designed for AI application developers. It provides structured workflows for planning and executing documentation research, particularly focused on Azure services, SDKs, and AI frameworks.
 
 
-[![Watch the video](https://raw.githubusercontent.com/samelhousseini/sdd-templates/main/images/thumbnail.jpg)](https://raw.githubusercontent.com/samelhousseini/sdd-templates/main/images/sddv1.mp4)
-
-
-<br/>
-
 ## Repository Structure
 - `.github/templates/` - Markdown templates for research planning and collection
 - `.github/prompts/` - Prompt instruction files for research workflows

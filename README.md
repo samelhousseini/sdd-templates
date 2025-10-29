@@ -3,6 +3,10 @@
 Spec-driven development grounds AI coding agents in living specifications, keeping their output aligned with intent and cutting costly rework.
 This repo bundles Spec Kit prompts and templates so GitHub Copilot workflows stay structured from research through implementation.
 
+[![Watch the video](https://raw.githubusercontent.com/samelhousseini/sdd-templates/main/images/thumbnail.jpg)](https://raw.githubusercontent.com/samelhousseini/sdd-templates/main/images/sddv1.mp4)
+
+<br/>
+
 ## Usage
 
 ### Research Phase
