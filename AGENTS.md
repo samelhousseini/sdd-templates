@@ -3,6 +3,12 @@
 ## Project Overview
 This repository contains spec-driven templates and research frameworks designed for AI application developers. It provides structured workflows for planning and executing documentation research, particularly focused on Azure services, SDKs, and AI frameworks.
 
+
+[![Watch the video](https://raw.githubusercontent.com/samelhousseini/sdd-templates/main/images/thumbnail.jpg)](https://raw.githubusercontent.com/samelhousseini/sdd-templates/main/images/sddv1.mp4)
+
+
+<br/>
+
 ## Repository Structure
 - `.github/templates/` - Markdown templates for research planning and collection
 - `.github/prompts/` - Prompt instruction files for research workflows
@@ -20,7 +26,7 @@ This repository contains spec-driven templates and research frameworks designed 
 2. **research-collect.prompt.md** - Instructions for systematic collection of code snippets, configuration, and documentation
 
 ### Chat Modes
-1. **azure-docs-research.chatmode.md** - Specialized mode for Azure documentation research using Context7 and Azure MCP sources
+1. **azure-docs-research.agent.md** - Specialized mode for Azure documentation research using Context7 and Azure MCP sources
 
 ## Workflow Instructions
 
@@ -134,7 +140,7 @@ When resolving libraries for research, prioritize these commonly used SDKs:
 
 ## Agent-Specific Guidance
 
-### For Documentation Research Agent (azure-docs-research.chatmode.md)
+### For Documentation Research Agent (azure-docs-research.agent.md)
 - Role: Azure documentation research specialist
 - Primary goal: Collect relevant code snippets
 - Secondary goals: Configuration, how-tos, guidance
