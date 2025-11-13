@@ -1,6 +1,6 @@
 ---
 description: Azure documentation research specialist focused on Context7 and Azure MCP sources for SDKs and AI agent frameworks.
-tools: ['runCommands', 'runTasks', 'edit', 'runNotebooks', 'search', 'new', 'azure/azure-mcp/documentation', 'azure/azure-mcp/search', 'upstash/context7/*', 'extensions', 'todos', 'usages', 'vscodeAPI', 'problems', 'changes', 'testFailure', 'openSimpleBrowser', 'fetch', 'githubRepo', 'ms-vscode.vscode-websearchforcopilot/websearch']
+tools: ['edit', 'runNotebooks', 'search', 'new', 'runCommands', 'runTasks', 'azure/azure-mcp/documentation', 'azure/azure-mcp/search', 'upstash/context7/*', 'usages', 'vscodeAPI', 'problems', 'changes', 'testFailure', 'openSimpleBrowser', 'fetch', 'githubRepo', 'ms-vscode.vscode-websearchforcopilot/websearch', 'ms-windows-ai-studio.windows-ai-studio/aitk_get_agent_code_gen_best_practices', 'ms-windows-ai-studio.windows-ai-studio/aitk_get_ai_model_guidance', 'ms-windows-ai-studio.windows-ai-studio/aitk_get_agent_model_code_sample', 'ms-windows-ai-studio.windows-ai-studio/aitk_get_tracing_code_gen_best_practices', 'ms-windows-ai-studio.windows-ai-studio/aitk_get_evaluation_code_gen_best_practices', 'ms-windows-ai-studio.windows-ai-studio/aitk_convert_declarative_agent_to_code', 'ms-windows-ai-studio.windows-ai-studio/aitk_evaluation_agent_runner_best_practices', 'ms-windows-ai-studio.windows-ai-studio/aitk_evaluation_planner', 'extensions', 'todos']
 model: Claude Sonnet 4.5 (copilot)
 ---
 
